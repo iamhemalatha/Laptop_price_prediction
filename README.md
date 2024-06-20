@@ -1,0 +1,1 @@
+This project involves predicting laptop prices based on their specifications. It encompasses advanced data preprocessing, feature engineering, model evaluation, and the deployment of the model using a Gradio application.![Interface_Laptop_price_prediction](https://github.com/iamhemalatha/Laptop_price_prediction/assets/172480545/32c51550-677c-4eb4-8204-8ed976a2403b)
